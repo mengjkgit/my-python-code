@@ -1,1 +1,1 @@
-The is my python code.
+我自己python学习代码.
